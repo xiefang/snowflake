@@ -39,3 +39,9 @@ GUID：采用无意义字符串，数据量增大时造成访问过慢，且不�
 以上内容及部分代码引用自：
 [https://www.cnblogs.com/Hollson/p/9116218.html]
 [https://blog.csdn.net/u011499747/article/details/78254990]
+
+
+外国的 c# 封装: [ccollie/snowflake-net](https://github.com/ccollie/snowflake-net)
+
+
+博客园网友在此基础上的修改版本，添加了一些注解等【支持Core】。现在是可以去Nuget直接下载使用的：[Snowflake.Net](https://github.com/dunitian/snowflake-net)，[说明文章](https://www.cnblogs.com/dunitian/p/6130543.html)
